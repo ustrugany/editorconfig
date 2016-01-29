@@ -13,10 +13,10 @@ trim_trailing_whitespace = true
 [*.md]
 trim_trailing_whitespace = false
 
-[{*.yml,*.json,*.js}]
+[*.{yml,json,js}]
 indent_size = 2
 indent_style = space
 
-[*.{php}]
+[*.php]
 indent_style = space  
 indent_size = 4  
